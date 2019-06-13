@@ -1,3 +1,9 @@
+/*
+Initially weights for all vertices will be marked as Infinity, now there will be a visited array to keep track
+of the vertices that are visited. We chose vertex with minimum weight from the unvisited and explore all it's neighbours
+that are also unvisited and update their weights and parents is distance is lower than current weight.
+*/
+
 #include <iostream>
 #include <climits>
 using namespace std;
