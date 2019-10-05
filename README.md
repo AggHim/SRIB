@@ -1,1 +1,1 @@
-# SRIB
+# SRIB ( Samsung Research Institute Bangalore )
